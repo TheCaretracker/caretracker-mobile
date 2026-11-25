@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "all",
+  "editor.parameterHints.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript"],
+  "files.insertFinalNewline": true,
+  "eslint.useFlatConfig": true,
+  "cSpell.words": ["caree", "carees"],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162130346075",
+    "project_id": "the-caretracker",
+    "storage_bucket": "the-caretracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162130346075:android:1f6a6018548ded57ceff7e",
+        "android_client_info": {
+          "package_name": "com.caretracker.caretracker2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdMPqjfPtvek9cH0dXksGiJZ4BctvUTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
